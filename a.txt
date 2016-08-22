@@ -3,3 +3,4 @@ a f
 e
 d
 Git has a mutable index called stage.
+Fixed issue 101.
